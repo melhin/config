@@ -34,10 +34,6 @@
       "<C-C>": true,
     },
     "python.linting.pylintEnabled": true,
-    "python.linting.pylintArgs": [
-    "--disable=C0111", // missing docstring
-    "--load-plugins=pylint_django,pylint_celery",
-   ],
   "python.jediEnabled": true,
   "diffEditor.renderSideBySide": false,
   "python.testing.pytestEnabled": true,
